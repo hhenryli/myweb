@@ -1,6 +1,6 @@
 import React from 'react';
 import Nav from './Nav.jsx';
-import aboutpic from '../assets/aboutpic.jpeg';
+import aboutpic from '../assets/aboutpic.jpg';
 
 export default function About() {
   return (
