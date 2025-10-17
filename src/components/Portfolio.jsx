@@ -16,7 +16,6 @@ export default function Portfolio() {
     <div className="min-h-[185vh] mt-4">
       <Nav />
       <h1 className="text-6xl font-garamond text-center">portfolio</h1>
-      <p className='text-center text-lg font-inter mt-2'>i like art</p>
 
       <div className='grid grid-cols-4 gap-4 p-4'>
         <div className="flex flex-col gap-4">
